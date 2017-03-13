@@ -1,4 +1,4 @@
-	----------F80 Main Plugin By @Reload_Life
+	----------@AFBoTS Main Plugin By @Reload_Life
 	--29/Dex/2016 --Start Writing ...
 	-----------------------------------------
 	-----------------------------------------
@@ -10,7 +10,7 @@
 	end
 Help = {
 En = {
-Sudo = '* F80 Sudos Help*\n'
+Sudo = '*Sudos Help*\n'
 ..'`>`/add : *AddGroup To Administring Groups*\n'
 ..'`>`/rem : *RemGroup To Administring Groups*\n'
 ..'`>`/leave : *Bot Leaves Group*\n'
@@ -97,8 +97,8 @@ Sudo = '* F80 Sudos Help*\n'
 ..'`>`/fbc [msgID|Reply]\n'
 ..'`>`/lua [String]\n'
 ..'`>`/update [FA|En]\n'
-..'-- @SPRCPU\\_Company --',
-Admin = '* F80 Admins Help*\n'
+..'-- @AFBoTS\\_@AFSuDo && @NimABD --',
+Admin = '* @AFBoTS Admins Help*\n'
 ..'`>`/add : *AddGroup To Administring Groups*\n'
 ..'`>`/rem : *RemGroup To Administring Groups*\n'
 ..'`>`/leave : *Bot Leaves Group*\n'
@@ -172,8 +172,8 @@ Admin = '* F80 Admins Help*\n'
 ..'`>`/Settings : *Shows Group Settings*\n'
 ..'`>`/Rules : *Shows Group Rules*\n'
 ..'`>`/Nerkh : *Shows Group Fee*\n'
-..'-- @SPRCPU\\_Company --',
-ExAdmin = '* F80 Extra Admins Help*\n'
+..'-- @AFBoTS --',
+ExAdmin = '* @AFBoTS Extra Admins Help*\n'
 ..'`>`/ID [_Reply|@Username|UserID_]: *Get Target UserID*\n'
 ..'`>`/Link Del : *Set Link Posting Stats On Clean*\n'
 ..'`>`/Link Kick : *Set Link Posting Stats On KickUser*\n'
@@ -243,8 +243,8 @@ ExAdmin = '* F80 Extra Admins Help*\n'
 ..'`>`/Settings : *Shows Group Settings*\n'
 ..'`>`/Rules : *Shows Group Rules*\n'
 ..'`>`/Nerkh : *Shows Group Fee*\n'
-..'-- @SPRCPU\\_Company --',
-Mod = '* F80 GroupModerators Help*\n'
+..'-- @AFBoTS --',
+Mod = '* @AFBoTS GroupModerators Help*\n'
 ..'`>`/ID [_Reply|@Username|UserID_]: *Get Target UserID*\n'
 ..'`>`/Link Del : *Set Link Posting Stats On Clean*\n'
 ..'`>`/Link Kick : *Set Link Posting Stats On KickUser*\n'
@@ -311,11 +311,11 @@ Mod = '* F80 GroupModerators Help*\n'
 ..'`>`/Settings : *Shows Group Settings*\n'
 ..'`>`/Rules : *Shows Group Rules*\n'
 ..'`>`/Nerkh : *Shows Group Fee*\n'
-..'-- @SPRCPU\\_Company --',
-Member = '`>`/Rules : *Show Group Rules*\n`>`/Nerkh : *Show Group Fee*\n`>`@SPRCPU\\_Company'
+..'-- @AFBoTS --',
+Member = '`>`/Rules : *Show Group Rules*\n`>`/Nerkh : *Show Group Fee*\n`>`@AFBoTS'
  },
 Fa = {
-Sudo = '* F80 Sudos Help*\n'
+Sudo = '* @AFBoTS Sudos Help*\n'
 ..'`>`/add : *AddGroup To Administring Groups*\n'
 ..'`>`/rem : *RemGroup To Administring Groups*\n'
 ..'`>`/leave : *Bot Leaves Group*\n'
@@ -402,8 +402,8 @@ Sudo = '* F80 Sudos Help*\n'
 ..'`>`/fbc [msgID|Reply]\n'
 ..'`>`/lua [String]\n'
 ..'`>`/update [FA|En]\n'
-..'-- @SPRCPU\\_Company --',
-Admin = '* F80 Admins Help*\n'
+..'-- @AFBoTS --',
+Admin = '* @AFBoTS Admins Help*\n'
 ..'`>`/add : *اضافه کردن گروه*\n'
 ..'`>`/rem : *حذف گروه*\n'
 ..'`>`/leave : *ترک گروه*\n'
@@ -477,8 +477,8 @@ Admin = '* F80 Admins Help*\n'
 ..'`>`/Settings : *تنظیمات گروه*\n'
 ..'`>`/Rules : *قوانین*\n'
 ..'`>`/Nerkh : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-ExAdmin = '* F80 Extra Admins Help*\n'
+..'-- @AFBoTS --',
+ExAdmin = '* @AFBoTS Extra Admins Help*\n'
 ..'`>`/ID [ریپلی|یوزرنیم|یوزرایدی]: *دریافت ایدی فرد مورد نظر*\n'
 ..'`>`/Link Del : *حذف لینک ها*\n'
 ..'`>`/Link Kick : *حذف لینک ها + اخراج کاربر*\n'
@@ -546,8 +546,8 @@ ExAdmin = '* F80 Extra Admins Help*\n'
 ..'`>`/Settings : *تنظیمات گروه*\n'
 ..'`>`/Rules : *قوانین*\n'
 ..'`>`/Nerkh : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-Mod = '* F80 GroupModerators Help*\n'
+..'-- @AFBoTS --',
+Mod = '* @AFBoTS GroupModerators Help*\n'
 ..'`>`/ID [ریپلی|یوزرنیم|یوزرایدی]: *دریافت ایدی فرد مورد نظر*\n'
 ..'`>`/Link Del : *حذف لینک ها*\n'
 ..'`>`/Link Kick : *حذف لینک ها + اخراج کاربر*\n'
@@ -611,14 +611,14 @@ Mod = '* F80 GroupModerators Help*\n'
 ..'`>`/Settings : *تنظیمات گروه*\n'
 ..'`>`/Rules : *قوانین*\n'
 ..'`>`/Nerkh : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-Member = '`>`/Rules : *نمایش قوانین*\n`>`/Nerkh : *نمایش قوانین گروه*\n`>`@SPRCPU\\_Company'
+..'-- @AFBoTS --',
+Member = '`>`/Rules : *نمایش قوانین*\n`>`/Nerkh : *نمایش قوانین گروه*\n`>`@AFBoTS'
  },
 }
 
 
 FaH = {
-Sudo = '* F80 Sudos Help*\n'
+Sudo = '* @AFBoTS Sudos Help*\n'
 ..'`>`/add : *AddGroup To Administring Groups*\n'
 ..'`>`/rem : *RemGroup To Administring Groups*\n'
 ..'`>`/leave : *Bot Leaves Group*\n'
@@ -705,8 +705,8 @@ Sudo = '* F80 Sudos Help*\n'
 ..'`>`/fbc [msgID|Reply]\n'
 ..'`>`/lua [String]\n'
 ..'`>`/update [FA|En]\n'
-..'-- @SPRCPU\\_Company --',
-Admin = '* F80 Admins Help*\n'
+..'-- @AFBoTS --',
+Admin = '* @AFBoTS Admins Help*\n'
 ..'`>`/add : *اضافه کردن گروه*\n'
 ..'`>`/rem : *حذف گروه*\n'
 ..'`>`/leave : *ترک گروه*\n'
@@ -780,8 +780,8 @@ Admin = '* F80 Admins Help*\n'
 ..'`>`#تنظیمات : *تنظیمات گروه*\n'
 ..'`>`#قوانین : *قوانین*\n'
 ..'`>`#نرخ : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-ExAdmin = '* F80 Extra Admins Help*\n'
+..'-- @AFBoTS --',
+ExAdmin = '* @AFBoTS Extra Admins Help*\n'
 ..'`>`#ایدی [ریپلی|یوزرنیم|یوزرایدی]: *دریافت ایدی فرد مورد نظر*\n'
 ..'`>`#لینک حذف : *حذف لینک ها*\n'
 ..'`>`#لینک اخراج : *حذف لینک ها + اخراج کاربر*\n'
@@ -849,8 +849,8 @@ ExAdmin = '* F80 Extra Admins Help*\n'
 ..'`>`#تنظیمات : *تنظیمات گروه*\n'
 ..'`>`#قوانین : *قوانین*\n'
 ..'`>`#نرخ : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-Mod = '* F80 GroupModerators Help*\n'
+..'-- @AFBoTS --',
+Mod = '* @AFBoTS GroupModerators Help*\n'
 ..'`>`#ایدی [ریپلی|یوزرنیم|یوزرایدی]: *دریافت ایدی فرد مورد نظر*\n'
 ..'`>`#لینک حذف : *حذف لینک ها*\n'
 ..'`>`#لینک اخراج : *حذف لینک ها + اخراج کاربر*\n'
@@ -915,8 +915,8 @@ Mod = '* F80 GroupModerators Help*\n'
 ..'`>`#تنظیمات : *تنظیمات گروه*\n'
 ..'`>`#قوانین : *قوانین*\n'
 ..'`>`#نرخ : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-Member = '`>`#قوانین : *نمایش قوانین*\n`>`#نرخ : *نمایش قوانین گروه*\n`>`@SPRCPU\\_Company'
+..'-- @AFBoTS --',
+Member = '`>`#قوانین : *نمایش قوانین*\n`>`#نرخ : *نمایش قوانین گروه*\n`>`@AFBoTS'
  }
 		--
 		--VIP_GROUPS
@@ -1024,8 +1024,8 @@ end
 				set_text(LANG, 'list:mods', 'Group Moderators List :\n')
 				set_text(LANG, 'list:exadmins', 'Group ExtraAdmins List :\n')
 				set_text(LANG, 'list:muted', 'Group MutedUsers List :\n')
-				set_text(LANG, 'list:sudos', 'F80 Sudoers List :\n')
-				set_text(LANG, 'list:admins', 'F80 GloballyAdmins List :\n')
+				set_text(LANG, 'list:sudos', '@AFBoTS Sudoers List :\n')
+				set_text(LANG, 'list:admins', '@AFBoTS GloballyAdmins List :\n')
 				set_text(LANG, 'list:bots', 'Group API Bots List :\n')
 				set_text(LANG, 'list:kicked', 'Group KickedUsers List :\n')
 				set_text(LANG, 'list:filterd', 'Group FilterdWords List :\n')
@@ -1195,8 +1195,8 @@ end
 				set_text(LANG, 'list:mods', 'لیست مدیران گروه :\n')
 				set_text(LANG, 'list:exadmins', 'لیست میران اصلی گروه :\n')
 				set_text(LANG, 'list:muted', 'لیست سکوت :\n')
-				set_text(LANG, 'list:sudos', 'F80 Sudoers List :\n')
-				set_text(LANG, 'list:admins', 'F80 GloballyAdmins List :\n')
+				set_text(LANG, 'list:sudos', '@AFBoTS Sudoers List :\n')
+				set_text(LANG, 'list:admins', '@AFBoTS GloballyAdmins List :\n')
 				set_text(LANG, 'list:bots', 'ربات های API گروه :\n')
 				set_text(LANG, 'list:kicked', 'کاربران کیک شده :\n')
 				set_text(LANG, 'list:filterd', 'کلمات فیلتر شده :\n')
@@ -1362,8 +1362,8 @@ end
 			set_text(LANG, 'list:mods', tr(lANG, 'Group Moderators List :\n'))
 			set_text(LANG, 'list:exadmins', tr(lANG, 'Group ExtraAdmins List :\n'))
 			set_text(LANG, 'list:muted', tr(lANG, 'Group MutedUsers List :\n'))
-			set_text(LANG, 'list:sudos', tr(lANG, 'F80 Sudoers List :\n'))
-			set_text(LANG, 'list:admins', tr(lANG, 'F80 GloballyAdmins List :\n'))
+			set_text(LANG, 'list:sudos', tr(lANG, '@AFBoTS Sudoers List :\n'))
+			set_text(LANG, 'list:admins', tr(lANG, '@AFBoTS GloballyAdmins List :\n'))
 			set_text(LANG, 'list:bots', tr(lANG, 'Group API Bots List :\n'))
 			set_text(LANG, 'list:kicked', tr(lANG, 'Group KickedUsers List :\n'))
 			set_text(LANG, 'list:filterd', tr(lANG, 'Group FilterdWords List :\n'))
@@ -1483,9 +1483,9 @@ end
 	end
 end
 	---------------------------
-	local RLM = -100 -- Realm ID to Send Charge Panel ! (You Can Set A Privet)
-	local BOT = 0 -- Bot Id
-	local SUP = -100 -- SupportID
+	local RLM = -113566842 -- Realm ID to Send Charge Panel ! (You Can Set A Privet)
+	local BOT = 235281041 -- Bot Id
+	local SUP = -1001091839214 -- SupportID
 	--CallBacks
 	function getInputFile(file)
   		if file:match('/') then
@@ -1559,7 +1559,7 @@ end
 	end
 --Remove Groups--
 function rem_gp(msg, chat_id, user_id, username)
-	add = '*Group* '..chat_id..' *Hasbeen SuccsesFully Removed From* @SPRCPU\\_Company *Data Base.*'
+	add = '*Group* '..chat_id..' *Hasbeen SuccsesFully Removed From* @AFBoTS *Data Base.*'
 	send_sup = '*Group *:`'..chat_id..'`\n'
 	..'*Remover* : '..(username or user_id)..'\n'
 	..'---------------------------'
@@ -1591,7 +1591,7 @@ end
 					tdcli.downloadFile(result.user_.profile_photo_.big_.id_)
 					tdcli.getFilePersistent(result.user_.profile_photo_.big_.persistent_id_)
 					sleep(1)
-					sendPhoto(chat_id, extra.msg_id, 0, 1, nil, '/root/.telegram-cli/F802/data/profile_photo/'.. result.user_.profile_photo_.id_ ..'.jpg', text)
+					sendPhoto(chat_id, extra.msg_id, 0, 1, nil, result.user_.profile_photo_.big_.path_, text)
 				end
 			GetUser(user_id, ID_CB, {chat_id=chat_id,msg_id=msg_id})
 			end
@@ -1990,7 +1990,7 @@ end
 				tdcli.downloadFile(result.user_.profile_photo_.big_.id_)
 				tdcli.getFilePersistent(result.user_.profile_photo_.big_.persistent_id_)
 				sleep(1)
-				sendPhoto(chat_id, extra.msg_id, 0, 1, nil, '/root/.telegram-cli/F802/data/profile_photo/'.. result.user_.profile_photo_.id_ ..'.jpg', text)
+				sendPhoto(chat_id, extra.msg_id, 0, 1, nil, result.user_.profile_photo_.big_.path_, text)
 			end
 			--Promote_UserID
 			function Promote_ID(extra, result, succses)
@@ -2394,7 +2394,7 @@ end
 					tdcli.downloadFile(result.user_.profile_photo_.big_.id_)
 					tdcli.getFilePersistent(result.user_.profile_photo_.big_.persistent_id_)
 					sleep(1)
-					sendPhoto(chat_id, extra.msg_id, 0, 1, nil, '/root/.telegram-cli/F802/data/profile_photo/'.. result.user_.profile_photo_.id_ ..'.jpg', text)
+					sendPhoto(chat_id, extra.msg_id, 0, 1, nil, result.user_.profile_photo_.big_.path_, text)
 				end
 			GetUser(user_id, ID_CB, {chat_id=chat_id,msg_id=msg_id})
 			end
@@ -2853,7 +2853,7 @@ end
 							if matches[1]:lower() == 'reload' and is_sudo(msg) then
 								plugins = {}
   								load_plugins()
-  								tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* `F80 Reloaded`', 1, 'md')
+  								tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* `@AFBoTS Reloaded`', 1, 'md')
 							end
 
 							--Promote To Sudo
@@ -2958,7 +2958,7 @@ end
 									redis:sadd('groups', '-100'..chid)
 									tdcli.sendText(RLM, 0, 0, 0, nil, send_sup, 0, 'md')
 									redis:setex('group:-100'..chid, time, true) --SetEx For Ttl
-									text = '*Group* `'..chid..'` *Hasbeen SuccsesFully Added To* @SPRCPU\\_Company *Data Base.*'
+									text = '*Group* `'..chid..'` *Hasbeen SuccsesFully Added To* @AFBoTS *Data Base.*'
 								end
 								tdcli.sendText('-100'..chid, 0, 0, 0, nil, text, 0, 'md')
         						--Remove Group
@@ -3186,7 +3186,7 @@ end
 										tdcli.downloadFile(result.user_.profile_photo_.big_.id_)
 										sleep(1)
 										tdcli.getFilePersistent(result.user_.profile_photo_.big_.persistent_id_)
-										sendPhoto(chat_id, extra.msg_id, 0, 1, nil, '/root/.telegram-cli/F802/data/profile_photo/'.. result.user_.profile_photo_.id_ ..'.jpg', text)
+										sendPhoto(chat_id, extra.msg_id, 0, 1, nil, result.user_.profile_photo_.big_.path_, text)
 									end
 									GetUser(msg.sender_user_id_, ID_CB, {chat_id=chat_id,msg_id=msg_id})
 								elseif matches[2] then
@@ -3339,7 +3339,7 @@ end
   							  	elseif matches[2]:lower() == 'گروه ها' then
   							  		hash = 'groups'
 									list = redis:smembers(hash)
-									text = '*F80 Groups List* :\n'
+									text = '*@AFBoTS Groups List* :\n'
 									for k,v in pairs(list) do
 										if redis:get('name:'..v) then
 										text = text..'`'..k..'` *'..v..'* \n*Name:* '..redis:get('name:'..v)..'\n*Token:* '..(redis:get('token:'..v) or 'Not Set')..'\n---------\n'
@@ -3886,7 +3886,7 @@ end
 							.."\n`>` *"..lang(gid, 'LNG').." :* `"..(redis:get('lang:'..gid) or 'no').."`"
 							.."\n`>` *"..lang(gid, 'BOTS').." :* `"..(redis:get('bots:'..gid) or 'no').."`"
 							.."\n`>` *"..lang(gid, 'EXP').." :* `"..tonumber(math.floor((redis:ttl('group:'..gid) or '0')/ 60 / 60 / 24 + 1)).."`"
-							.."\n`>` @SPRCPU\\_Company"
+							.."\n`>` @AFBoTS"
 							tdcli.sendText(chat_id, msg_id, 0, 1, nil, setting, 1, 'md')
 						end
 						if matches[1]:lower() == 'سنجاق' and is_mod(msg) then
@@ -4006,7 +4006,14 @@ end
 
 								if matches[1]:lower() == 'تنظیم زبان' and matches[2] and is_mod(msg) then
 									if matches[2]:lower() == 'لاتین' then
-										redis:set('lang:'..chat_id, 'en')
+										redis:set('lang:'..chat_
+					
+					
+					
+					
+					
+					
+					, 'en')
 										tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Language Setted To English*', 1, 'md')
 									elseif matches[2]:lower() == 'فارسی' then
 										redis:set('lang:'..chat_id, 'fa')
@@ -4032,20 +4039,20 @@ end
 [[*نرخ گروه ها به شرح زیر است :*
 ---------------------
 *یک ماه *: `7000` تومان
-*پرداخت *: ppng.ir/d/9epw
+*پرداخت *: https://zarinp.al/galaxybots.ir/7000
 *در صورت پرداخت شارژ گروه شما 4 روز کمتر شارژ میگردد.*
 ---------------------
 *دو ماه *: `12000` تومان
-*پرداخت* :  ppng.ir/d/foBn
+*پرداخت* :  https://zarinp.al/galaxybots.ir/12000
 *در صورت پرداخت شارژ گروه شما 6 روز کمتر شارژ میگردد.*
 ---------------------
 *برای شارژ بیشتر گروه به *
-@Reload\_Life - @Reload\_LifeBOT
-@Arisharr
+@@AFSuDo - @NimABD
+@AFBoTS
 *مراجعه کنید.*
 ---------------------
 *برای اطلاع از تخفیف های ویژه با کانال ما نیز سری بزنید. :P*
-@SPRCPU\_Company
+@AFBoTS
 ]]
 								        if replymsg_id ~= 0 then
 								          msgid = replymsg_id
@@ -4058,10 +4065,10 @@ end
 
 											if matches[1]:lower() == 'markread' and is_admin(msg) then
 												if matches[2]:lower() == 'on' then
-													redis:set('read:f80', true)
+													redis:set('read:@AFBoTS', true)
 													tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* !!', 1, 'md')
 												elseif matches[2]:lower() == 'off' then
-													redis:del('read:f80')
+													redis:del('read:@AFBoTS')
 													tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* !!', 1, 'md')
 												end
 											end
@@ -4101,65 +4108,7 @@ end
 								end
 								tdcli.sendText(chat_id, msg_id, 0, 1, nil, text, 1, 'md')
 							end
-							if matches[1]:lower() == 'config' and is_ex(msg) then
-								local path = '/root/BOT/Data/Temp/Group'..chat_id..'.lua'
-								local mods = ''
-								for v,k in pairs(redis:smembers('mods:'..chat_id)) do
-								 mods = mods..'\nredis:sadd("mods:'..chat_id..'",'..k..')'
-								end
-								local exs = ''
-								for v,k in pairs(redis:smembers('exadmins:'..chat_id)) do
-								 exs = exs..'\nredis:sadd("exadmins:'..chat_id..'",'..k..')'
-								end
-								local text = '--Group : '..chat_id..'  ExtraAdmin : '..user_id..'\n'
-										   ..'redis = (loadfile "/root/BOT/Libs/redis.lua")()'
-										   ..'redis:set("links:'..chat_id..'", "'.. (redis:get('links:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("username:'..chat_id..'", "'.. (redis:get('username:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("hashtag:'..chat_id..'", "'.. (redis:get('hashtag:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("forward:'..chat_id..'", "'.. (redis:get('forward:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("floood:'..chat_id..'", "'.. (redis:get('floood:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("flood:'..chat_id..'", "'.. (redis:get('flood:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("floodtime:'..chat_id..'", "'.. (redis:get('floodtime:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("spam:'..chat_id..'", "'.. (redis:get('spam:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("spamcharr:'..chat_id..'", "'.. (redis:get('spamcharr:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("edit:'..chat_id..'", "'.. (redis:get('edit:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("pin:'..chat_id..'", "'.. (redis:get('pin:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("reply:'..chat_id..'", "'.. (redis:get('reply:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("photo:'..chat_id..'", "'.. (redis:get('photo:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("video:'..chat_id..'", "'.. (redis:get('video:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("contact:'..chat_id..'", "'.. (redis:get('contact:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("audio:'..chat_id..'", "'.. (redis:get('audio:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("voice:'..chat_id..'", "'.. (redis:get('voice:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("location:'..chat_id..'", "'.. (redis:get('location:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("muteall:'..chat_id..'", "'.. (redis:get('muteall:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("gif:'..chat_id..'", "'.. (redis:get('gif:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("link:'..chat_id..'", "'.. (redis:get('link:'..chat_id) or 'NoLink')..'")\n'
-										   ..'redis:set("file:'..chat_id..'", "'.. (redis:get('file:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("sticker:'..chat_id..'", "'.. (redis:get('sticker:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("english:'..chat_id..'", "'.. (redis:get('english:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("arabic:'..chat_id..'", "'.. (redis:get('arabic:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("game:'..chat_id..'", "'.. (redis:get('game:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("inline:'..chat_id..'", "'.. (redis:get('inline:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("chat:'..chat_id..'", "'.. (redis:get('chat:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("lang:'..chat_id..'", "'.. (redis:get('lang:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("bots:'..chat_id..'", "'.. (redis:get('bots:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("name:'..chat_id..'", "'.. (redis:get('name:'..chat_id) or 'ok')..'")\n'
-										   ..'redis:set("wlc:'..chat_id..'", "'.. (redis:get('wlc:'..chat_id) or 'ok')..'")\n'
-										   ..mods..'\n--MODS--\n'
-										   ..ex..'\n--exs--\n'
-								file = io.open(path, "w")
-								file:write(text)
-								file:flush()
-								file:close()
-								x = io.popen('luac /root/BOT/Data/Temp/Group'..chat_id..'.lua'):read('*all')
-								xp = io.popen('mv /root/BOT/luac.out /root/BOT/Data/Temp/Gps/Group'..chat_id..'.lua'):read('*all')
-								local send = ''
-								local text = ''
-								local token = ''
-								local caption = token..'\n@SPRCPU_Company'
-   					   			tdcli.sendDocument(chat_id, 0, 0, 0, nil, '/root/BOT/Data/Temp/Gps/Group'..chat_id..'.lua', caption)
-							end
-
+							
 							if matches[1]:lower() == 'چه کسی است' and is_mod(msg) then
 								local function getuserCB(extra, result, succses)
 									if result.ID == 'Error' then
@@ -4228,10 +4177,10 @@ end
    					   		if matches[2]:lower() == 'redis' then
    					   			doc = '/var/lib/redis/dump.rdb'
    					   			text = '<code>I\'ll Backed up </code><b> REDIS</b><code> To Your PV :)</code>'
-   					   		elseif matches[2]:lower() == 'f80' then
-   					   			io.popen('tar -czf F80-back.tar.gz /root/BOT'):read('*all')
-   					   			doc = './F80-back.tar.gz'
-   					   			text = '<code>I\'ll Backed up </code><b> F80</b><code> To Your PV :)</code>'
+   					   		elseif matches[2]:lower() == '@AFBoTS' then
+   					   			io.popen('tar -czf @AFBoTS-back.tar.gz /root/BOT'):read('*all')
+   					   			doc = './@AFBoTS-back.tar.gz'
+   					   			text = '<code>I\'ll Backed up </code><b> @AFBoTS</b><code> To Your PV :)</code>'
    					   		else
    					   			doc = matches[2]
    					   			text = '<code>I\'ll Backed up </code><b> '.. matches[2] ..'</b><code> To Your PV :)</code>'
@@ -4261,7 +4210,7 @@ end
 							if matches[1]:lower() == 'reload' and is_sudo(msg) then
 								plugins = {}
   								load_plugins()
-  								tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* `F80 Reloaded`', 1, 'md')
+  								tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* `@AFBoTS Reloaded`', 1, 'md')
 							end
 
 							--Promote To Sudo
@@ -4366,7 +4315,7 @@ end
 									redis:sadd('groups', '-100'..chid)
 									tdcli.sendText(RLM, 0, 0, 0, nil, send_sup, 0, 'md')
 									redis:setex('group:-100'..chid, time, true) --SetEx For Ttl
-									text = '*Group* `'..chid..'` *Hasbeen SuccsesFully Added To* @SPRCPU\\_Company *Data Base.*'
+									text = '*Group* `'..chid..'` *Hasbeen SuccsesFully Added To* @AFBoTS *Data Base.*'
 								end
 								tdcli.sendText('-100'..chid, 0, 0, 0, nil, text, 0, 'md')
         						--Remove Group
@@ -4594,7 +4543,7 @@ end
 										tdcli.downloadFile(result.user_.profile_photo_.big_.id_)
 										sleep(1)
 										tdcli.getFilePersistent(result.user_.profile_photo_.big_.persistent_id_)
-										sendPhoto(chat_id, extra.msg_id, 0, 1, nil, '/root/.telegram-cli/F802/data/profile_photo/'.. result.user_.profile_photo_.id_ ..'.jpg', text)
+										sendPhoto(chat_id, extra.msg_id, 0, 1, nil, result.user_.profile_photo_.big_.path_, text)
 									end
 									GetUser(msg.sender_user_id_, ID_CB, {chat_id=chat_id,msg_id=msg_id})
 								elseif matches[2] then
@@ -4763,7 +4712,7 @@ end
   							  	elseif matches[2]:lower() == 'gps' then
   							  		hash = 'groups'
 									list = redis:smembers(hash)
-									text = '*F80 Groups List* :\n'
+									text = '*@AFBoTS Groups List* :\n'
 									for k,v in pairs(list) do
 										if redis:get('name:'..v) then
 										text = text..'`'..k..'` *'..v..'* \n*Name:* '..redis:get('name:'..v)..'\n*Token:* '..(redis:get('token:'..v) or 'Not Set')..'\n---------\n'
@@ -5309,7 +5258,7 @@ end
 							.."\n`>` *"..lang(gid, 'LNG').." :* `"..(redis:get('lang:'..gid) or 'no').."`"
 							.."\n`>` *"..lang(gid, 'BOTS').." :* `"..(redis:get('bots:'..gid) or 'no').."`"
 							.."\n`>` *"..lang(gid, 'EXP').." :* `"..tonumber(math.floor((redis:ttl('group:'..gid) or '0')/ 60 / 60 / 24 + 1)).."`"
-							.."\n`>` @SPRCPU\\_Company"
+							.."\n`>` @AFBoTS"
 							tdcli.sendText(chat_id, msg_id, 0, 1, nil, setting, 1, 'md')
 						end
 						if matches[1]:lower() == 'pin' and is_mod(msg) then
@@ -5468,7 +5417,7 @@ end
 *مراجعه کنید.*
 ---------------------
 *برای اطلاع از تخفیف های ویژه با کانال ما نیز سری بزنید. :P*
-@SPRCPU\_Company
+@AFBoTS
 ]]
 								        if replymsg_id ~= 0 then
 								          msgid = replymsg_id
@@ -5481,10 +5430,10 @@ end
 
 											if matches[1]:lower() == 'markread' and is_admin(msg) then
 												if matches[2]:lower() == 'on' then
-													redis:set('read:f80', true)
+													redis:set('read:@AFBoTS', true)
 													tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* !!', 1, 'md')
 												elseif matches[2]:lower() == 'off' then
-													redis:del('read:f80')
+													redis:del('read:@AFBoTS')
 													tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* !!', 1, 'md')
 												end
 											end
@@ -5744,7 +5693,7 @@ end
 						return
 					end
 						--
-						if redis:get('read:f80') then
+						if redis:get('read:@AFBoTS') then
 							tdcli.viewMessages(chat_id, {[0] = msg_id})
 						end
 						if redis:sismember('muted:'..chat_id, user_id) then
@@ -6045,6 +5994,6 @@ end
 
 				--[[ 
 					
-					#$ This Plugin Written With Love In @SprCpu_Company By @Reload_Life
+					#$ This Plugin Written With Love In @AFBoTS_Company By @Reload_Life
 		
 				]]
