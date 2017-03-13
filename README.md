@@ -12,7 +12,7 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/SPR-CPU-ORG/F80.git
+git clone https://github.com/SayedSadat/F80.git && cd F80 && chmod +x Run.sh && ./Run.sh install && ./Run.sh 
 cd F80
 chmod +x Run.sh
 ./Run.sh install
